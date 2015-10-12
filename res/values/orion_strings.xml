@@ -29,4 +29,10 @@
     <string name="enable_adb_summary_custom">Enable the Android Debug Bridge (adb) interface</string>
     <string name="adb_notify">ADB notification</string>
     <string name="adb_notify_summary">Display a notification when android debugging is enabled</string>
+
+    <!-- Wakeup section under Display settings -->
+    <string name="wakeup_section_header">Wake up</string>
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Volume rocker wake</string>
+    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
 </resources>
