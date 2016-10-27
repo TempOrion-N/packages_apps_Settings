@@ -21,5 +21,7 @@
 	android:src="@drawable/orion_logo"
 	android:adjustViewBounds="true"
 	android:scaleType="centerInside"
+    android:layout_marginTop="24dp"
+    android:layout_marginBottom="24dp"
 	android:tint="?android:attr/colorAccent" />
 </LinearLayout>
